@@ -1,7 +1,0 @@
-npm init -y
-
-npm install fastify
-
-npm install typescript -D
-npx tsc --init
-

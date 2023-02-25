@@ -1,0 +1,18 @@
+npm init -y
+
+npm install fastify
+
+npm install typescript -D
+npx tsc --init
+npm install tsx -D
+
+
+no arquivo packpage.json
+"dev": "tsx src/server.ts"
+
+executar comando no terminal
+npm run dev
+
+npm -i -D prisma
+
+
